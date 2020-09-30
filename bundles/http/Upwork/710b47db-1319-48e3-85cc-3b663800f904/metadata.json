@@ -8,10 +8,6 @@
   "masVersion" : "1.26.2",
   "categories" : [ "VIA_CITRIX_READY" ],
   "created" : "2020-09-11T07:24:42",
-  "supportsOAuthForActions" : false,
-  "i18nLanguages" : [ "en" ],
-  "apps" : [],
-  "vaResolvers" : [ ],
   "tags" : [{
     "tag" : "helpUrl",
     "value" : "https://google.com"
