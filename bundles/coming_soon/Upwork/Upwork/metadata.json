@@ -2,7 +2,7 @@
   "type" : "HTTP",
   "vendor" : "Upwork",
   "id" : "710b47db-1319-48e3-85cc-3b663800f904",
-  "title" : "Webex Meetings",
+  "title" : "Upwork",
   "description" : "Deploy the Upwork integration to schedule Webex Meetings from any device or intranet.",
   "iconUrl" : "https://iws-prod-global-customicons-cdn-endpoint.azureedge.net/image/ZwCDa3H83YxLgcdqivztCfNvn9Kox7TS.png",
   "masVersion" : "1.26.2",
